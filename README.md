@@ -142,3 +142,11 @@ Due to the sensor noise, there is a fluctuation in controller input; however, th
 (iii) The system is robust against the sensor noise. (Input amplitude after 14sec is less than 0.04)
 
 
+## References
+[1] Multivariable Control, T. Iwasaki, (Lecture notes prepared by the instructor) 
+
+[2] Robust and Optimal Control, K. Zhou, J. Doyle, and K. Glover, Prentice Hall, 1995
+
+[3] Theory of Robust Control, C. Scherer, http://www.dcsc.tudelft.nl/~cscherer/books.html
+
+[4] Linear Matrix Inequalities in System and Control Theory, S. Boyd et al.,, SIAM, 1994 http://web.stanford.edu/~boyd/lmibook/
