@@ -5,7 +5,6 @@
 <p align="center">
   <img 
     width="250"
-    height="275"
     src="images/system_pic.PNG"
   >
 </p>
@@ -84,8 +83,7 @@ model_basic = ss(Acl,[],[],[]);
 
 <p align="center">
   <img 
-    width="700"
-    height="500"
+    width="500"
     src="images/basic_design.PNG"
   >
 </p>
@@ -127,8 +125,7 @@ u2 = 0.01*sin(20*pi*t)/beta;
 ```
 <p align="center">
   <img 
-    width="900"
-    height="400"
+    width="800"
     src="images/design_tuning.PNG"
   >
 </p>
